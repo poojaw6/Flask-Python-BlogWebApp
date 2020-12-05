@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codinggeek",
+    "prod_uri": "mysql://produser:prodpassword@localhost/codinggeek",
+    "fb_url": "https://www.facebook.com/thecodinggalaxy",
+    "tw_url":"https://www.twitter.com/thecodinggalaxy",
+    "gh_url": "https://www.github.com/thecodinggalaxy",
+    "blog_name": "The Coding Galaxy",
+    "gmail_user": "myemail@gmail.com",
+    "gmail_pwd": "*****",
+    "about_text": "This is my first implementation of a Web Page using Flask and Python! :)",
+    "no_of_posts": 2,
+    "login_img": "login.svg",
+    "admin_user": "admin",
+    "admin_pwd": "admin123",
+    "upload_location": "D:\\Pooja\\Study\\Flask\\static"
+
+  }
+}
